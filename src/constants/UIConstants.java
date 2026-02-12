@@ -6,10 +6,10 @@ public class UIConstants {
 
     public static final int GAME_WIDTH = 500;
     public static final int GAME_HEIGHT = 500;
-    public static final int BRICK_WIDTH = 100;
-    public static final int BRICK_HEIGHT = 30;
+    public static final int BRICK_WIDTH = 50;
+    public static final int BRICK_HEIGHT = 15;
 
-    public static final int BRICK_AMOUNT = 15;
+    public static final int BRICK_AMOUNT = 40;
     public static final int BOARD_WIDTH = 100;
     public static final int BOARD_HEIGHT = 20;
 

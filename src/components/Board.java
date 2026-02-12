@@ -33,4 +33,7 @@ public class Board extends Rectangle {
         return UIConstants.GAME_HEIGHT - 100;
     }
 
+    public void setX(int x) {
+        this.x = x;
+    }
 }

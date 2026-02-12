@@ -21,4 +21,12 @@ public class Ball extends Rectangle {
         graphics2D.setBackground(Color.WHITE);
         graphics2D.fillRoundRect(x,y,width,height,45,45);
     }
+
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
 }
