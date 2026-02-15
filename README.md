@@ -58,3 +58,10 @@ Ball ↔ Walls
 When all bricks are destroyed → Player Wins 🎉
 
 If ball touches bottom → Game Over ❌
+
+
+🎮 Controls
+Key	Action
+⬅ Left Arrow	Move Paddle Left
+➡ Right Arrow	Move Paddle Right
+R	Restart Game
