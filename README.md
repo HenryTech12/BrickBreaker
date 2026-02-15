@@ -40,3 +40,21 @@ Java Swing
 AWT
 
 OOP Principles
+
+🧠 Game Logic Overview
+
+The game runs using a Timer loop.
+
+KeyListener handles paddle movement.
+
+Collision detection checks:
+
+Ball ↔ Paddle
+
+Ball ↔ Bricks
+
+Ball ↔ Walls
+
+When all bricks are destroyed → Player Wins 🎉
+
+If ball touches bottom → Game Over ❌
