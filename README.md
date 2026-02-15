@@ -10,3 +10,22 @@ Smooth ball movement
 Collision detection
 Score tracking
 Game over & restart functionality
+
+
+🚀 Features
+
+🎯 Paddle controlled by keyboard (Left & Right arrow keys)
+
+🏀 Ball physics with collision detection
+
+🧱 Dynamic brick generation
+
+💥 Brick-breaking mechanics
+
+🧮 Score tracking system
+
+🔄 Restart game functionality
+
+🎵 (Optional) Background music support
+
+⚡ Smooth rendering using paint() and repaint()
