@@ -29,3 +29,14 @@ Game over & restart functionality
 🎵 (Optional) Background music support
 
 ⚡ Smooth rendering using paint() and repaint()
+
+
+🛠️ Tech Stack
+
+Java
+
+Java Swing
+
+AWT
+
+OOP Principles
